@@ -1,1 +1,4 @@
-
+PORT A --------- 10h
+PORT B --------- 11h
+PORT C --------- 12h
+CONTROL BYTE --- 13h
