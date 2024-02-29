@@ -12,5 +12,8 @@ Geany:
 2 - Goto 'Build > Set Build Commands' and config as per 'Geany_Build_Command.png'. Please, pay atention to the path where zasm is installed.
 
 GTKTerm:
-Spedd115200 bps
-8 bits
+Speed: 115200 bps
+Data: 8 bit
+Parity: none
+Stop bits: 1 bit
+Flow Control: RTS/CTS
