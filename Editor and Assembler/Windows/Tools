@@ -1,0 +1,23 @@
+Download:
+Crimson Editor - http://www.crimsoneditor.com/english/download.html
+zmac - Z-80 Macro Cross Assembler - http://48k.ca/zmac.zip
+
+
+Configuration for Crimson:
+Goto 'Tools > Prefrences > Categories > Tools > User Tools' and do as per instructions bellow.
+
+User Tool		Hot Key
+ - ZMAC			F5
+ 
+Menu Text:		 - ZMAC
+Command:		C:\zmac\zmac-pgr\zmac.exe
+Argument:		$(FileName) -c -j -n --oo hex,lst --od c:\zmac\zout	
+Initial Dir:	$(FileDir)
+Hot Key:		F5
+
+My zmac folder structure:
+zmac
+ |___my-asm (my asm programs)
+ |___scr (zmac source)
+ |___zmac-pgr (zmac executable)
+ |___zout (.lst and .hex files)
