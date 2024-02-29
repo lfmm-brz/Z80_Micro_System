@@ -3,7 +3,7 @@ Editor Geany - https://www.geany.org/download/releases/
 zasm assembler - https://k1.spdns.de/Develop/Projects/zasm/Distributions/zasm-4.4.13-Linux64.zip
 
 
-Configuration:
+Configuration of Geany:
 1 - Open the file 'Z80 filetype_asm for Geany.txt' copy its content and paste on Geany's filetypes.asm located at 'Tools > Configuration Files > Filetype Configuration > Programming Language > filetypes.asm'.
     Please, pay atention to the path where zasm is installed, refer to 'Geany_filetypes_asm.png'.
 
