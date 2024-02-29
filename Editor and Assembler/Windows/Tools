@@ -4,7 +4,7 @@ zmac - Z-80 Macro Cross Assembler - http://48k.ca/zmac.zip
 
 
 Configuration for Crimson:
-Goto 'Tools > Prefrences > Categories > Tools > User Tools' and do as per instructions bellow.
+Goto 'Tools > Prefrences > Categories > Tools > User Tools' and do as per instructions bellow (please see the image 'Crimson configuration.jpg').
 
 User Tool		Hot Key
  - ZMAC			F5
