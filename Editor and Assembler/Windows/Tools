@@ -3,7 +3,8 @@ Crimson Editor - http://www.crimsoneditor.com/english/download.html
 zmac - Z-80 Macro Cross Assembler - http://48k.ca/zmac.zip
 Tera Term - https://github.com/TeraTermProject/teraterm/releases
 
-Configuration for Crimson:
+Configuration:
+Crimson:
 Goto 'Tools > Prefrences > Categories > Tools > User Tools' and do as per instructions bellow (please see the image 'Crimson configuration.jpg').
 
 User Tool		Hot Key
@@ -21,3 +22,11 @@ zmac
  |___scr (zmac source)
  |___zmac-pgr (zmac executable)
  |___zout (.lst and .hex files)
+
+Tera Term:
+Speed: 115200 bps
+Data: 8 bit
+Parity: none
+Stop bits: 1 bit
+Flow Control: RTS/CTS
+
