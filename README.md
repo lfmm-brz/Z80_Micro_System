@@ -1,4 +1,4 @@
-# Z80-Micro-System-RC2014-
+# Z80 Micro System RC2014
 A Z80 small system based on the RC2014
 
 At the beginning of 2024 I decided to dust off books from 40 years ago and remember great experiences with the Z80. I realized that I had forgotten many things about the wonderful Z80.
