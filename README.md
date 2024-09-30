@@ -7,3 +7,5 @@ I tried several circuits posted on the internet, finally I came across the great
 As I wanted to do something without having to buy many components (the only ones I bought were the MC68B50P and the 7.3228MHz crystal), I used an EPROM, an EEPROM can be used with small changes. I used the R0000009.BIN image downloaded from the official RC2014 website, on the board there is a jumper where you can select SCMON or MS Basic.
 If you find any error in this text, I'm sorry, english is not my native language.
 
+All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this project are for identification purposes only.
+
